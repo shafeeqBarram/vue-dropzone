@@ -143,7 +143,7 @@
                                 dictCancelUpload: "Cancel upload",
                                 dictUploadCanceled: "Upload canceled.",
                                 dictCancelUploadConfirmation: "Are you sure you want to cancel this upload?",
-                                dictRemoveFile: "Remove file",
+                                dictRemoveFile: "x",
                                 dictRemoveFileConfirmation: null,
                                 dictMaxFilesExceeded: "You can not upload any more files.",
                                 dictFileSizeUnits: {
